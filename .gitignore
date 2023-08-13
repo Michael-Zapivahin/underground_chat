@@ -133,3 +133,4 @@ test/
 
 
 chat_history.txt
+.env
