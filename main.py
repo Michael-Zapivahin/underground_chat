@@ -21,22 +21,24 @@ class InvalidToken(Exception):
 
 
 async def send_message(args, token):
-    token = '2482a332-39cd-11ee-aae7-0242ac110002'
     reader, writer = await asyncio.open_connection(args.host, 5050)
     response_in_bytes = await reader.readline()
     response = response_in_bytes.decode("utf-8")
     logger.debug(f'sender: {response}')
-    print('step 1 '+response)
-    message = f'{token}\r\n'
-    logger.debug(f'user: {message}')
-    writer.write(message.encode('utf-8'))
+    logger.debug(f'user: {token}')
+    writer.write(f"{token}\n".encode())
     await writer.drain()
     response_in_bytes = await reader.readline()
-    response = response_in_bytes.decode("utf-8")
+    response = json.loads(response_in_bytes.decode())
     logger.debug(f'sender: {response}')
-    print('step 2 '+response+ 'the end')
+    if response is None:
+        writer.close()
+        await writer.wait_closed()
+        logger.debug("Token error.")
+    else:
+        print('good autorization')
+        return
 
-    return
 
 
 
