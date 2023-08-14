@@ -26,8 +26,8 @@ def main():
     logger.setLevel(logging.DEBUG)
     load_dotenv()
     parser = argparse.ArgumentParser()
-    parser.add_argument('-host', '--host', default='minechat.dvmn.org', help='enable logging')
-    parser.add_argument('-port', '--port', default='5000', help='enable delay')
+    parser.add_argument('-host', '--host', default='minechat.dvmn.org', help='host')
+    parser.add_argument('-port', '--port', default='5000', help='reade port')
     parser.add_argument('-history', '--history', default='mine_chat.history', help="History chat's file.")
     args = parser.parse_args()
     try:

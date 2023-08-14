@@ -2,15 +2,11 @@ import asyncio
 import os
 
 import aiofiles
-import sys
 import argparse
-import time
 import logging
 import json
 
-from datetime import datetime
 from dotenv import load_dotenv
-from textwrap import dedent
 
 
 logger = logging.getLogger(__name__)
@@ -30,6 +26,7 @@ async def get_registration(host, port, username):
     response = response.decode("utf-8")
     logger.debug(f"Message: {response}")
 
+    username = username.replace('\n', ' ')
     writer.write(f"{username}\n".encode())
     await writer.drain()
 
@@ -39,63 +36,60 @@ async def get_registration(host, port, username):
     signup_result = json.loads(signup_result.decode())
 
     logger.debug(f"Message: {signup_result}")
-    print(f"Registered user {signup_result['nickname']}. It is token:")
-    print(signup_result['account_hash'])
 
     async with aiofiles.open('token.txt', 'w') as token_file:
         await token_file.write(signup_result['account_hash'])
-        print("Тoken saved into file token.txt")
 
     return writer
 
 
-class InvalidToken(Exception):
-    pass
-
-
-async def send_message(args, token):
-    reader, writer = await asyncio.open_connection(args.host, 5050)
+async def send_message(host, port, token, message_text):
+    token = token.replace('\n', ' ')
+    message_text = message_text.replace('\n', ' ')
+    reader, writer = await asyncio.open_connection(host, port)
     response_in_bytes = await reader.readline()
     response = response_in_bytes.decode("utf-8")
+
     logger.debug(f'sender: {response}')
-    logger.debug(f'user: {token}')
     writer.write(f"{token}\n".encode())
     await writer.drain()
     response_in_bytes = await reader.readline()
     response = json.loads(response_in_bytes.decode())
     logger.debug(f'sender: {response}')
+
     if response is None:
         writer.close()
         await writer.wait_closed()
         logger.debug("Token error.")
     else:
-        print('good autorization')
-        return
+        writer.write(f"{message_text}\n".encode())
+        await writer.drain()
+        response_in_bytes = await reader.readline()
+        response = json.loads(response_in_bytes.decode())
+        logger.debug(f'sender: {response}')
 
-
-async def write_chat(args):
-    reader, writer = await asyncio.open_connection(args.host, args.port)
-    while True:
-        record = await reader.readline()
-        message = f"[{datetime.now().strftime('%d.%m.%y %I:%M')}] {record.decode('utf-8')}"
-        async with aiofiles.open(args.path, 'a', encoding='utf-8') as file:
-            await file.write(message)
-        sys.stdout.write(message)
 
 
 def main():
     logger.setLevel(logging.DEBUG)
     load_dotenv()
-    chat_token = os.getenv('CHAT_TOKEN')
+
     parser = argparse.ArgumentParser()
-    parser.add_argument('-host', '--host', default='minechat.dvmn.org', help='enable logging')
-    parser.add_argument('-port', '--port', default='5000', help='enable delay')
-    parser.add_argument('-history', '--history', default='mine_chat.history', help="History chat's file.")
+    parser.add_argument('-host', '--host', default='minechat.dvmn.org', help='host')
+    parser.add_argument('-port', '--port', default='5050', help='write port')
+    parser.add_argument('-token', '--token', help="Chat's token.")
+    parser.add_argument('-name', '--name', help="Chat's user name.")
+    parser.add_argument('-text', '--text', help="Message's text.")
     args = parser.parse_args()
-    asyncio.run(get_registration(args.host, 5050, 'user_test'))
-    asyncio.run(send_message(args, chat_token))
 
+    chat_token = os.getenv('CHAT_TOKEN')
+    if args.token:
+        chat_token = args.token
 
+    if chat_token:
+        asyncio.run(send_message(args.host, args.port, args.token, args.text))
+    else:
+        asyncio.run(get_registration(args.host, args.port, args.name))
 
 
 if __name__ == '__main__':
