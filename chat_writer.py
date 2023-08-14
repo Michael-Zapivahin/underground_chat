@@ -73,39 +73,6 @@ async def send_message(args, token):
         return
 
 
-
-
-async def old_send_message(args, token):
-    reader, writer = await asyncio.open_connection(args.host, args.port)
-    try:
-        response_in_bytes = await reader.read(1024)
-        response = response_in_bytes.decode('utf-8')
-        logger.debug(f'sender: {response}')
-        print(response)
-        message = f'{token}\r\n'
-        logger.debug(f'user: {message}')
-        writer.write(message.encode('utf-8'))
-        await writer.drain()
-        print(response)
-        time.sleep(2)
-        response_in_bytes = await reader.read(1024)
-        response = response_in_bytes.decode("utf-8")
-        logger.debug(f'sender: {response}')
-        if response == '\n':
-            logger.warning(dedent(f'''
-                    Неизвестный токен: {token}
-                    Проверьте его или зарегистрируйте заново.
-                    '''))
-        else:
-            message = '3-я попытка\r\n\n'
-            logger.debug(f'user: {message}')
-            writer.write(message.encode('utf-8'))
-            await writer.drain()
-    finally:
-        writer.close()
-        await writer.wait_closed()
-
-
 async def write_chat(args):
     reader, writer = await asyncio.open_connection(args.host, args.port)
     while True:
@@ -126,12 +93,7 @@ def main():
     parser.add_argument('-history', '--history', default='mine_chat.history', help="History chat's file.")
     args = parser.parse_args()
     asyncio.run(get_registration(args.host, 5050, 'user_test'))
-    # try:
-    #     asyncio.run(write_chat(args))
-    # except Exception as err:
-    #     sys.stderr.write(err)
-
-    # asyncio.run(send_message(args, chat_token))
+    asyncio.run(send_message(args, chat_token))
 
 
 
