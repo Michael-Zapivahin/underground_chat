@@ -134,3 +134,4 @@ test/
 
 chat_history.txt
 .env
+token.txt

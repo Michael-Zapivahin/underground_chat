@@ -16,6 +16,39 @@ from textwrap import dedent
 logger = logging.getLogger(__name__)
 
 
+async def get_registration(host, port, username):
+    reader, writer = await asyncio.open_connection(host, port)
+    response = await reader.readline()
+    response = response.decode("utf-8")
+    logger.debug(f"Message: {response}")
+    skip_auth_reply = "\n"
+    writer.write(skip_auth_reply.encode())
+    await writer.drain()
+    logger.debug(f"Answer: {skip_auth_reply}")
+
+    response = await reader.readline()
+    response = response.decode("utf-8")
+    logger.debug(f"Message: {response}")
+
+    writer.write(f"{username}\n".encode())
+    await writer.drain()
+
+    logger.debug(f"Answer: {username}")
+
+    signup_result = await reader.readline()
+    signup_result = json.loads(signup_result.decode())
+
+    logger.debug(f"Message: {signup_result}")
+    print(f"Registered user {signup_result['nickname']}. It is token:")
+    print(signup_result['account_hash'])
+
+    async with aiofiles.open('token.txt', 'w') as token_file:
+        await token_file.write(signup_result['account_hash'])
+        print("Тoken saved into file token.txt")
+
+    return writer
+
+
 class InvalidToken(Exception):
     pass
 
@@ -92,12 +125,13 @@ def main():
     parser.add_argument('-port', '--port', default='5000', help='enable delay')
     parser.add_argument('-history', '--history', default='mine_chat.history', help="History chat's file.")
     args = parser.parse_args()
+    asyncio.run(get_registration(args.host, 5050, 'user_test'))
     # try:
     #     asyncio.run(write_chat(args))
     # except Exception as err:
     #     sys.stderr.write(err)
 
-    asyncio.run(send_message(args, chat_token))
+    # asyncio.run(send_message(args, chat_token))
 
 
 
