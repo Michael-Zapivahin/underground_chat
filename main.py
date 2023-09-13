@@ -1,6 +1,10 @@
 import os
 import asyncio
 import logging
+import json
+import tkinter
+
+from tkinter import messagebox
 
 import gui
 import aiofiles
@@ -10,13 +14,17 @@ from datetime import datetime
 
 
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, filename="log.txt", filemode="w")
+logging.basicConfig(level=logging.INFO, filename="test/log.txt", filemode="w")
 
 loop = asyncio.get_event_loop()
 
 messages_queue = asyncio.Queue()
 sending_queue = asyncio.Queue()
 status_updates_queue = asyncio.Queue()
+
+
+class InvalidToken(Exception):
+    pass
 
 
 async def connect_to_chat(host, port, token):
@@ -93,16 +101,19 @@ async def get_authorization(host, port, token, queue):
         response_in_bytes = await reader.readline()
         response = response_in_bytes.decode("utf-8")
         logger.debug(f'sender: {response}')
-        writer.write(f"{token}\n".encode())
+        writer.write(f'{token}\n'.encode())
         await writer.drain()
         response_in_bytes = await reader.readline()
-        response = response_in_bytes.decode()
-        if response is None:
+        response = response_in_bytes.decode("utf-8")
+        response_json = json.loads(response)
+        if not response_json:
             writer.close()
             await writer.wait_closed()
-            logger.debug("Token error.")
+            logger.debug(f'Token error.{token}')
+            messagebox.showerror("Ошибка авторизации", f'Неизвестный токен: {token}')
+            raise InvalidToken(f'Неизвестный токен: {token}')
         else:
-            logger.debug(f'authorization successful: {response}')
+            logger.debug(f'authorization successful: {response}  User {response_json["nickname"]}')
     finally:
         writer.close()
         await writer.wait_closed()
@@ -119,9 +130,8 @@ async def main():
     path_chat_file = os.getenv('PATH_HISTORY')
 
     await asyncio.gather(
+        get_authorization(host, port_write, token, status_updates_queue),
         send_msgs(host, port_write, token, sending_queue),
-        # get_authorization(host, port_write, token, status_updates_queue),
-        # send_msgs(host, port_write, token, sending_queue),
         read_msgs(host, port_read, messages_queue, path_chat_file),
         gui.draw(messages_queue, sending_queue, status_updates_queue),
     )

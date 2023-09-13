@@ -136,4 +136,4 @@ chat_history.txt
 .env
 token.txt
 chat.txt
-log.txt
+test/log.txt
