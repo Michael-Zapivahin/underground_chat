@@ -66,10 +66,25 @@ async def save_messages(path_chat_file, queue):
                 queue.put_nowait(message)
 
 
-async def send_msgs(host, port, queue):
+async def send_msgs(host, port, token, msg):
     while True:
-        msg = await queue.get()
-        print(msg)
+        reader, writer = await asyncio.open_connection(host, port)
+        writer.write(f"{token}\n".encode())
+        await writer.drain()
+        response_in_bytes = await reader.readline()
+        response = response_in_bytes.decode()
+        logger.debug(f'token : {response}')
+
+        # msg = await queue.get()
+        # msg = msg.replace('\n', ' ')
+        # print(msg)
+        message = msg.replace('\\n', '')
+        message = f'{message}\n\n'
+        writer.write(message.encode('utf-8'))
+        await writer.drain()
+        response_in_bytes =await reader.readline()
+        response = response_in_bytes.decode()
+        logger.debug(f'token : {response}')
 
 
 async def get_authorization(host, port, token, queue):
@@ -103,9 +118,11 @@ async def main():
     token = os.getenv('CHAT_TOKEN')
     path_chat_file = os.getenv('PATH_HISTORY')
 
+    # await send_msgs(host, port_write, token, 'caxasvxudsxiasbd')
     await asyncio.gather(
-        get_authorization(host, port_write, token, status_updates_queue),
-        send_msgs(host, port_read, sending_queue),
+        send_msgs(host, port_write, token, 'test send msg.'),
+        # get_authorization(host, port_write, token, status_updates_queue),
+        # send_msgs(host, port_write, token, sending_queue),
         read_msgs(host, port_read, messages_queue, path_chat_file),
         gui.draw(messages_queue, sending_queue, status_updates_queue),
     )

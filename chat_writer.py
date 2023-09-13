@@ -53,7 +53,6 @@ async def send_message(host, port, token, message_text):
     try:
         response_in_bytes = await reader.readline()
         response = response_in_bytes.decode("utf-8")
-
         logger.debug(f'sender: {response}')
         writer.write(f"{token}\n".encode())
         await writer.drain()
@@ -66,8 +65,11 @@ async def send_message(host, port, token, message_text):
             await writer.wait_closed()
             logger.debug("Token error.")
         else:
-            writer.write(f"{message_text}\n".encode())
+            message = message_text.replace('\\n', '')
+            message = f'{message}\n\n'
+            writer.write(message.encode('utf-8'))
             await writer.drain()
+            await reader.readline()
             response_in_bytes = await reader.readline()
             response = json.loads(response_in_bytes.decode())
             logger.debug(f'sender: {response}')

@@ -1,4 +1,1936 @@
-DEBUG:__main__:sender: Hello %username%! Enter your personal hash or leave it empty to create new account.
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
 
-DEBUG:__main__:authorization successful: {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
+
+DEBUG:__main__:token : Hello %username%! Enter your personal hash or leave it empty to create new account.
+
+DEBUG:__main__:token : {"nickname": "Jolly Romantic zmg", "account_hash": "45042a96-514b-11ee-aae7-0242ac110002"}
 
