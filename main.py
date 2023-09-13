@@ -3,13 +3,14 @@ import asyncio
 import logging
 
 import gui
+import aiofiles
 
 from dotenv import load_dotenv
 from datetime import datetime
 
 
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, filename="log.log", filemode="w")
+logging.basicConfig(level=logging.INFO, filename="log.txt", filemode="w")
 
 loop = asyncio.get_event_loop()
 
@@ -37,49 +38,78 @@ async def connect_to_chat(host, port, token):
         status_updates_queue.put_nowait(gui.ReadConnectionStateChanged.CLOSED)
 
 
-async def submit_message(reader: asyncio.StreamReader, writer: asyncio.StreamWriter, queue: asyncio.Queue):
-
-    status_updates_queue.put_nowait(gui.SendingConnectionStateChanged.ESTABLISHED)
-    while True:
-        message = await queue.get()
-        logger.debug(f'user: {message}')
-        message = message.replace('\\n', '')
-        message = f'{message}\n\n'
-        writer.write(message.encode('utf-8'))
-        await writer.drain()
-        await reader.readline()
-        # watchdog_queue.put_nowait('Message sent')
-
-
-async def generate_msgs(time):
+async def generate_msgs(time, queue):
     for _ in range(1, time):
-        messages_queue.put_nowait(int(datetime.now().timestamp()))
+        queue.put_nowait(int(datetime.now().timestamp()))
         await asyncio.sleep(1)
 
 
+async def read_msgs(host, port, queue, path_chat_file):
+    reader, writer = await asyncio.open_connection(host, port)
+    try:
+        while True:
+            record = await reader.readline()
+            message = f"[{datetime.now().strftime('%d.%m.%y %I:%M')}] {record.decode('utf-8')}"
+            queue.put_nowait(message)
+            async with aiofiles.open(path_chat_file, 'a', encoding='utf-8') as file:
+                await file.write(message)
+    finally:
+        writer.close()
+        await writer.wait_closed()
+
+
+async def save_messages(path_chat_file, queue):
+    if os.path.exists(path_chat_file):
+        async with aiofiles.open(path_chat_file, 'r') as file:
+            all_file = await file.readlines()
+            for message in all_file:
+                queue.put_nowait(message)
+
+
+async def send_msgs(host, port, queue):
+    while True:
+        msg = await queue.get()
+        print(msg)
+
+
+async def get_authorization(host, port, token, queue):
+    reader, writer = await asyncio.open_connection(host, port)
+    try:
+        response_in_bytes = await reader.readline()
+        response = response_in_bytes.decode("utf-8")
+        logger.debug(f'sender: {response}')
+        writer.write(f"{token}\n".encode())
+        await writer.drain()
+        response_in_bytes = await reader.readline()
+        response = response_in_bytes.decode()
+        if response is None:
+            writer.close()
+            await writer.wait_closed()
+            logger.debug("Token error.")
+        else:
+            logger.debug(f'authorization successful: {response}')
+    finally:
+        writer.close()
+        await writer.wait_closed()
+
+
 async def main():
+    logger.setLevel(logging.DEBUG)
     load_dotenv()
     host = os.getenv('HOST')
     port_read = os.getenv('PORT_READ')
     port_write = os.getenv('PORT_WRITE')
     name = os.getenv('NICK_NAME')
     token = os.getenv('CHAT_TOKEN')
-    path = os.getenv('PATH_HISTORY')
-    message = 'Hi, I am robot.'
+    path_chat_file = os.getenv('PATH_HISTORY')
 
     await asyncio.gather(
-        generate_msgs(30),
-        gui.draw(messages_queue, sending_queue, status_updates_queue)
+        get_authorization(host, port_write, token, status_updates_queue),
+        send_msgs(host, port_read, sending_queue),
+        read_msgs(host, port_read, messages_queue, path_chat_file),
+        gui.draw(messages_queue, sending_queue, status_updates_queue),
     )
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
     loop.run_until_complete(main())
-    # loop.run_until_complete(gui.draw(messages_queue, sending_queue, status_updates_queue))
